@@ -2,7 +2,7 @@
   <div id="app">
     <main>
       <h1>Sample Vue.js SVG Icon System</h1>
-      <div>1111111</div>
+      <div>1111111 </div>
       <app-typography-icon />
       <app-animated-icon />
     </main>
@@ -15,7 +15,7 @@ import AppAnimatedIcon from './components/AppAnimatedIcon'
 
 export default {
   components: {
-    AppTypographyIcon,
+    AppTypographyIcon, 
     AppAnimatedIcon
   }
 }
